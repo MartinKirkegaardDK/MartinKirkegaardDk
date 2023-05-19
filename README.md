@@ -15,6 +15,7 @@ Check out the [repository](https://github.com/MartinKirkegaardDK/Projects/tree/m
 This paper goes in depth into the field of NLP!
 Can state of the art deep learning models be improved by including multiple feature extraction?
 Take a look at the [paper](https://github.com/MartinKirkegaardDK/Projects/blob/main/Span%20labeling/Group3%202ndyearproject.pdf)
+
 ![Alt Text](https://media0.giphy.com/media/mRZllX3U31ojpemIyx/giphy.gif)
 
 # 🌐 Socials:
