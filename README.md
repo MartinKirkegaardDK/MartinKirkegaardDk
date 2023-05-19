@@ -25,7 +25,7 @@ Check out the [repository](https://github.com/MartinKirkegaardDK/Projects/tree/m
 ### 🧾NLP paper
 
 
-This paper goes in depth into the field of NLP!
+This [paper](https://github.com/MartinKirkegaardDK/MartinKirkegaardDk/edit/main/README.md), which I wrote in collaboration with a few students, goes in depth into a subsection of NLP called span-detection.
 Can state of the art deep learning models can be improved by including multiple feature extraction?
 
 ![Alt Text](https://media0.giphy.com/media/mRZllX3U31ojpemIyx/giphy.gif)
