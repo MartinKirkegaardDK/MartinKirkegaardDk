@@ -1,11 +1,12 @@
 # About me:
 
 24 year old student studying Bsc Data Science at the IT-University of Copenhagen.
-With drive to learn about the world, I often spend my time trying to understand new things about the world.
-My latest project was improving my time to solve a rubrics cube and is finally below 1 minut!
+With drive to learn about the world, I often spend my time trying to understand new concepts and phenomena.
+My latest goal which I have set for myself is to become better at chess, more specificly hitting a 1000 elo.
+The latests achievement is to solve a rubrics cube below 1 minut!
 
 
-My dream job would be to work with machine learning while trying to advance the field as a whole.
+My dream job would be to combine my professional experience of working as a software engineer and combining it with my academic knowledge from studying data science.
 
 
 # 📊 Projects
