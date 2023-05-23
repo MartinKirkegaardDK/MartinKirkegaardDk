@@ -1,9 +1,9 @@
 # About me:
 
 24 year old student studying Bsc Data Science at the IT-University of Copenhagen.
-With drive to learn about the world, I often spend my time trying to understand new concepts and phenomena.
-My latest goal which I have set for myself is to become better at chess, more specificly hitting a 1000 elo.
-The latests achievement is to solve a rubrics cube below 1 minut!
+With a drive to learn about the world, I often spend my time trying to understand new concepts and phenomena.
+A goal which I have set for myself is to become better at chess, more specificly hitting a 1000 elo.
+My latest achievement is to solve a rubrics cube under 1 minute!
 
 
 My dream job would be to combine my professional experience of working as a software engineer and combining it with my academic knowledge from studying data science.
@@ -15,7 +15,7 @@ My dream job would be to combine my professional experience of working as a soft
 
 ### 🧬Disease simulation spread
 
-In 2021 I along with a few friends set out to model how diseases could spread in networks. 
+In 2021, I set out to model how diseases could spread in networks along with a few friends. 
 This simulation shows exponential nature of a disease, portrait in red, followed by the collapse of connectioned, showed by the decline in grey lines.
 Check out the [repository](https://github.com/MartinKirkegaardDK/Projects/tree/main/Disease%20simulation) !
 
