@@ -1,12 +1,17 @@
 # About me:
 
-24 year old student studying Bsc Data Science at the IT-University of Copenhagen.
+24 year old student with a Bsc Data Science from the IT-University of Copenhagen.
 With a drive to learn about the world, I often spend my time trying to understand new concepts and phenomena.
 A goal which I have set for myself is to become better at chess, more specificly hitting a 1000 elo.
 My latest achievement is to solve a rubrics cube under 1 minute!
 
-
 My dream job would be to combine my professional experience of working as a software engineer and combining it with my academic knowledge from studying data science.
+
+### What is data science?
+Data science is the ability to incorporate contextual knowledge with data to create value. 
+To achieve this skill set it is important that one has a strong understanding of technical theory, such as statistics and machine learning, while
+also has the knowhow of being able to convey key findings.
+If done succesfully, it can bring immeasurable value to any organization.
 
 
 # 📊 Projects
