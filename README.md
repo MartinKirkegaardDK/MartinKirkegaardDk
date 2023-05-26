@@ -31,7 +31,7 @@ Check out the [repository](https://github.com/MartinKirkegaardDK/Projects/tree/m
 ### 🧾NLP paper
 
 
-This [paper](https://github.com/MartinKirkegaardDK/MartinKirkegaardDk/edit/main/README.md), which I wrote in collaboration with a few students, goes in depth with a subsection of the NLP-field called span-detection, which is the task of classifying spans of tokens.
+This [paper](https://github.com/MartinKirkegaardDK/Projects/blob/main/Span%20labeling/Group3%202ndyearproject.pdf), which I wrote in collaboration with a few students, goes in depth with a subsection of the NLP-field called span-detection, which is the task of classifying spans of tokens.
 Can state of the art deep learning models be improved by including multiple feature extraction?
 
 ![Alt Text](https://media0.giphy.com/media/mRZllX3U31ojpemIyx/giphy.gif)
