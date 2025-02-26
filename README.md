@@ -1,6 +1,6 @@
 # About me:
 
-25 year old student with a Bsc Data Science from the IT-University of Copenhagen.
+26 year old student with a Bsc Data Science from the IT-University of Copenhagen.
 With a drive to learn about the world, I often spend my time trying to understand new concepts and phenomena.
 A goal which I have set for myself is to become better at chess, more specificly hitting a 1000 elo.
 My latest achievement is to solve a rubrics cube under 1 minute!
