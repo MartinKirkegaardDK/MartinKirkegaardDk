@@ -1,17 +1,12 @@
 # About me:
 
-26 year old student with a Bsc Data Science from the IT-University of Copenhagen.
-With a drive to learn about the world, I often spend my time trying to understand new concepts and phenomena.
-A goal which I have set for myself is to become better at chess, more specificly hitting a 1000 elo.
-My latest achievement is to solve a rubrics cube under 1 minute!
+Hi, I’m Martin, a second-year Data Science master’s student at ITU. For as long as I can remember, I’ve been fascinated by artificial intelligence—whether it was watching sci-fi movies growing up, thinking about how AI has surpassed humans in different fields, or later building AI systems myself.
 
-My dream job would be to combine my professional experience of working as a software engineer and combining it with my academic knowledge from studying data science.
+I’m currently writing my thesis on mechanistic interpretability, which is essentially the neuroscience of AI models. This field aims to better understand how neural networks function, helping us make them more transparent, reproducible, and safer.
 
-### What is data science?
-Data science is the ability to incorporate contextual knowledge with data to create value. 
-To achieve this skill set it is important that one has a strong understanding of technical theory, such as statistics and machine learning, while
-also has the knowhow of being able to convey key findings.
-If done succesfully, it can bring immeasurable value to any organization.
+Alongside my studies, I work at a Danish C25 company, building AI agents that automate processes and improve workflows across multiple departments.
+
+What sets me apart is my hands-on experience in an emerging field—LLMs. I’ve built real products, iterated on them, and continuously improved them, giving me a deep understanding of practical AI development.
 
 
 # 📊 Projects
